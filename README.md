@@ -55,8 +55,6 @@ To ensure data privacy and security, the financial management application incorp
 
 ## Contact
 
-Vladislav Lychak - [@LinkedIn](https://www.linkedin.com/in/vladislav-lychak/) - lycakvladislav@gmail.com
-
 Project Link: [https://budget-buddy-finance.netlify.app](https://budget-buddy-finance.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
